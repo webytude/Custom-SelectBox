@@ -21,6 +21,9 @@
   background-color: #ff185d;
   padding: 8px 15px;  
 }
+
+/****************************************************/
+
 .select-styled::after {
   content: "";
   width: 0;
